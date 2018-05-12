@@ -1,0 +1,45 @@
+_repo: Mothwise_46220
+_version: 0.1.0
+alternative_title: Sværmere. English
+contributor:
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, William W.
+    - Worster, W. W.
+    - Worster, William John Alexander
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+covers:
+- cover_type: archival
+  image_path: 46220-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Thode, Knut
+    - Gamsun, Knut
+    - Pedersen, Knut
+    - Hamsund, Knut Pedersen
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46220'
+  lccn: '21020662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Fiction'
+title: Mothwise
+url: http://www.gutenberg.org/ebooks/46220
